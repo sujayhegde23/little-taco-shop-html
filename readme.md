@@ -25,6 +25,6 @@
 
 ### Contact Page
 
-![Contact page top section](screenshots/hourspage.png)
+![Contact page top section](screenshots/contactpage1.png)
 
 ![Contact page form and location](screenshots/contactpage2.png)
