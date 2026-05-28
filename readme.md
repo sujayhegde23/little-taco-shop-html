@@ -10,3 +10,21 @@
 - Uses form for feedback from the user
 - Table to display the shop menu (used `rowspan` and colspan `attributes`)
 - Displayed some images to make the website look attractive
+
+## Preview
+
+### Home Page
+
+![Home page top section](screenshots/indexpage.png)
+
+![Home page menu section](screenshots/indexpage2.png)
+
+### Hours Page
+
+![Store hours page](screenshots/hourspage.png)
+
+### Contact Page
+
+![Contact page top section](screenshots/contactpage1.png)
+
+![Contact page form and location](screenshots/contactpage2.png)
