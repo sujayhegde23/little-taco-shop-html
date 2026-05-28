@@ -1,7 +1,7 @@
 ## Little Taco Shop 
 
--Done purely using HTML 
--Uses some of the common tags and attributes of HTML5
+- Done purely using HTML 
+- Uses some of the common tags and attributes of HTML5
 
 ## Features
 
