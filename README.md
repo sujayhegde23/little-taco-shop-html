@@ -13,7 +13,7 @@
 
 ## Preview
 
-[View Website]("https://sujayhegde23.github.io/little-taco-shop-html/")
+[View Website](https://sujayhegde23.github.io/little-taco-shop-html/)
 
 ### Home Page
 
