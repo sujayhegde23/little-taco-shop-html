@@ -13,6 +13,8 @@
 
 ## Preview
 
+[View Website]("https://sujayhegde23.github.io/little-taco-shop-html/")
+
 ### Home Page
 
 ![Home page top section](screenshots/indexpage.png)
